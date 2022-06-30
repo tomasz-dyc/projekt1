@@ -1,0 +1,278 @@
+{
+  "dictionaryName": "LEGAL_FORM",
+  "dictionaryLabels": [
+    {
+      "code": "JOINT_STOCK_COMPANY",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Spółka akcyjna"
+        },
+        {
+          "lang": "EN",
+          "label": "Joint-stock company"
+        }
+      ]
+    },
+    {
+      "code": "CIVIL_PARTNERSHIP",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Spółka cywilna"
+        },
+        {
+          "lang": "EN",
+          "label": "Civil partnership"
+        }
+      ]
+    },
+    {
+      "code": "GENERAL_PARTNERSHIP",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Spółka jawna"
+        },
+        {
+          "lang": "EN",
+          "label": "General partnership"
+        }
+      ]
+    },
+    {
+      "code": "LIMITED_PARTNERSHIP",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Spółka komandytowa"
+        },
+        {
+          "lang": "EN",
+          "label": "Limited partnership"
+        }
+      ]
+    },
+    {
+      "code": "LIMITED_JOINT_STOCK_PARTNERSHIP",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Spółka komandytowo-akcyjna"
+        },
+        {
+          "lang": "EN",
+          "label": "Limited joint-stock partnership"
+        }
+      ]
+    },
+    {
+      "code": "PROFESSIONAL_PARTNERSHIP",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Spółka partnerska"
+        },
+        {
+          "lang": "EN",
+          "label": "Professional partnership"
+        }
+      ]
+    },
+    {
+      "code": "LIMITED_LIABILITY_COMPANY",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Spółka z ograniczoną odpowiedzialnością"
+        },
+        {
+          "lang": "EN",
+          "label": "Limited liability company"
+        }
+      ]
+    },
+    {
+      "code": "SOLE_PROPRIETORSHIP",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Działalność jednoosobowa"
+        },
+        {
+          "lang": "EN",
+          "label": "Sole proprietorship"
+        }
+      ]
+    },
+    {
+      "code": "RESEARCH_AND_DEVELOPMENT_UNIT",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Jednostka badawczo-rozwojowa"
+        },
+        {
+          "lang": "EN",
+          "label": "Research and development unit"
+        }
+      ]
+    },
+    {
+      "code": "LOCAL_SELF_GOVERNMENT_UNIT",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Jednostka samorządu terytorialnego"
+        },
+        {
+          "lang": "EN",
+          "label": "Local self-government unit"
+        }
+      ]
+    },
+    {
+      "code": "FOUNDATION",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Fundacja"
+        },
+        {
+          "lang": "EN",
+          "label": "Foundation"
+        }
+      ]
+    },
+    {
+      "code": "CHURCH",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Kościół"
+        },
+        {
+          "lang": "EN",
+          "label": "Church"
+        }
+      ]
+    },
+    {
+      "code": "GOVERNMENT_ENTERPRISE",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Przedsiębiorstwo państwowe"
+        },
+        {
+          "lang": "EN",
+          "label": "Government enterprise"
+        }
+      ]
+    },
+    {
+      "code": "COOPERATIVE",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Spółdzielnia"
+        },
+        {
+          "lang": "EN",
+          "label": "Cooperative"
+        }
+      ]
+    },
+    {
+      "code": "PRODUCTION_COOPERATIVE_AGRICULTURAL",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Spółdzielnia produkcyjna (rolnicza)"
+        },
+        {
+          "lang": "EN",
+          "label": "Production cooperative (agricultural)"
+        }
+      ]
+    },
+    {
+      "code": "ASSOCIATION",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Stowarzyszenie"
+        },
+        {
+          "lang": "EN",
+          "label": "Association"
+        }
+      ]
+    },
+    {
+      "code": "SCHOOLS_AND_INSTITUTES_OF_EDUCATION_SYSTEM",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Szkoły i placówki systemu oświaty"
+        },
+        {
+          "lang": "EN",
+          "label": "Schools and institute of the education system"
+        }
+      ]
+    },
+    {
+      "code": "MUTUAL_INSURANCE_COMPANY",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Towarzystwo ubezpieczeń wzajemnych"
+        },
+        {
+          "lang": "EN",
+          "label": "Mutual insurance company"
+        }
+      ]
+    },
+    {
+      "code": "FOREIGN_COMPANY",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Firma zagraniczna"
+        },
+        {
+          "lang": "EN",
+          "label": "Foreign company"
+        }
+      ]
+    },
+    {
+      "code": "NATURAL_PERSON",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Osoba fizyczna"
+        },
+        {
+          "lang": "EN",
+          "label": "Natural person"
+        }
+      ]
+    },
+    {
+      "code": "OTHER",
+      "labels": [
+        {
+          "lang": "PL",
+          "label": "Inna"
+        },
+        {
+          "lang": "EN",
+          "label": "Other"
+        }
+      ]
+    }
+  ]
+}
